@@ -4,6 +4,11 @@ body{
     font-family: "Oswald", sans-serif;
 }
 
+a img {
+    width: 100px;
+    height: 100px;
+}
+
 nav ul {
     list-style: none;
     background-color: #4a4a4f;
@@ -42,9 +47,7 @@ nav a:hover {
     text-align: center;
 }
 
-img {
-    width: 100%;
-}
+
 
 h1 {
     text-align: center;
